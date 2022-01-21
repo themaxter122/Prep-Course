@@ -1,5 +1,5 @@
 h1 {
-    color: aqua;
+    color: blueviolet;
 }
 img{
     width: 400px;
@@ -15,3 +15,4 @@ img{
 #spanId{
 margin: 50px;
 } 
+#divClass {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
