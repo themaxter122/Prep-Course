@@ -46,3 +46,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Ejercicio 6. */
 #ejercicioCinco {flex-direction: row-reverse;}
+
+#ejercicioSiete {display: flex;
+    justify-content: space-around;
+align-items: center;}
